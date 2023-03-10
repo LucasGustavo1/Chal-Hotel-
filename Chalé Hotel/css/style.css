@@ -10,7 +10,6 @@ body{
     margin: 15px;
 }
 .container{
-    border: 1px solid red;
     background: #ede9cc url(../imagens/bg-container.png)top center repeat-y;
     margin: 0 auto;
     min-width: 740px;
